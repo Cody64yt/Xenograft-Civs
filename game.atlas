@@ -40,8 +40,8 @@ NationIcons/Lexington
   index: -1
 NationIcons/Silexidor
   rotate: false
-  xy: 0, 200
-  size: 0, 100
+  xy: 0, 100
+  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
