@@ -41,20 +41,20 @@ NationIcons/Lexington
 NationIcons/Silexidor
   rotate: false
   xy: 0, 200
-  size: 100, 100
+  size: 0, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Silexidor Republic
   rotate: false
-  xy: 100, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Trenchon
   rotate: false
-  xy: 200, 100
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
