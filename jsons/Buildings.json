@@ -1,25 +1,36 @@
 [
+
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
+			"name": "Casino",
+			"replaces": "Market",
+			"uniqueTo": "Lexington",
+			"percentStatBonus": {"gold": 25},
+			"specialistSlots": {"Merchant": 2},
+			"gold": 4,
+			"uniques": ["Cannot be purchased"],
+			"requiredTech": "Currency"
+		},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
-]
+			"name": "Research Quarters",
+			"replaces": "Library",
+	
+			"uniqueTo": "The Silexidor Republic",
+			"hurryCostModifier": 30,
+			"specialistSlots": {"Scientist": 1},
+			"cost": 85,
+			"science": 4,
+			"uniques": ["[+2 Science] for every [Farm]"],
+			"requiredTech": "Writing"
+		},
+	{
+			"name": "The National School Of Magic",
+			"isWonder": true,
+			"specialistSlots": {"Scientist": 1},
+			"cost": 200,
+			"science": 3,
+			"production": 1,
+			"uniques": ["[+25]% strength for every [Magic] unit"],
+			"requiredTech": "Spell Books",
+			"quote": "'Some fighters call magic cheating, I just see it as a different art form then the traditional fist fight.' - Henry"
+		}
+	]

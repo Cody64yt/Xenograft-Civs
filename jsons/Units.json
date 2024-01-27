@@ -1,17 +1,135 @@
 [
+
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
-]
+			"name": "Magic Student",
+			"unitType": "Magic",
+			"movement": 2,
+			"strength": 4,
+			"cost": 40,
+			"rangedStrength": 9,
+			"upgradesTo": "Wand Youth",
+			"requiredTech": "Spell Books",
+			"obsoleteTech": "Staffs and Wands",
+			"attackSound": "nonmetalAttack"
+		},
+	{
+			"name": "Staffsman",
+			"unitType": "Magic",
+			"movement": 2,
+			"strength": 6,
+			"cost": 75,
+			"rangedStrength": 14,
+			"requiredTech": "Staffs and Wands",
+			"obsoleteTech": "Magic Mastery",
+			"attackSound": "nonmetalAttack"
+		},
+	{
+			"name": "Wand Youth",
+			"unitType": "Magic",
+			"movement": 3,
+			"range": 3,
+			"strength": 2,
+			"cost": 70,
+			"rangedStrength": 17,
+			"requiredTech": "Staffs and Wands",
+			"obsoleteTech": "Future Tech",
+			"attackSound": "nonmetalAttack"
+		},
+	{
+			"name": "Mage",
+			"unitType": "Magic",
+			"movement": 2,
+			"strength": 11,
+			"cost": 110,
+			"rangedStrength": 23,
+			"requiredTech": "Magic Mastery",
+			"obsoleteTech": "Future Tech",
+			"attackSound": "nonmetalAttack"
+		},
+	{
+			"name": "Magic Monk",
+			"unitType": "Magic",
+			"movement": 3,
+			"strength": 9,
+			"cost": 110,
+			"rangedStrength": 13,
+			"requiredTech": "Religious Magic",
+			"obsoleteTech": "Future Tech",
+			"uniques": ["Can [Spread Religion] [3] times","Never appears as a Barbarian unit"],
+			"attackSound": "nonmetalAttack"
+		},
+	{
+			"name": "Cult Member",
+			"unitType": "Magic",
+			"movement": 2,
+			"strength": 13,
+			"cost": 135,
+			"rangedStrength": 30,
+			"requiredTech": "Religious Magic",
+			"obsoleteTech": "Future Tech",
+			"uniques": ["Can [Spread Religion] [1] times","Never appears as a Barbarian unit"],
+			"attackSound": "nonmetalAttack"
+		},
+	{
+			"name": "Diplomat",
+			"replaces": "Scout",
+			"uniqueTo": "Earthorn",
+			"unitType": "Scout",
+			"movement": 5,
+			"strength": 6,
+			"cost": 35,
+			"obsoleteTech": "Scientific Theory",
+			"uniques": ["This Unit gains the [Ignore terrain cost] promotion"],
+			"attackSound": "nonmetalAttack"
+		},
+	{
+			"name": "Executioner",
+			"unitType": "Mounted",
+			"replaces": "Knight",
+			"uniqueTo": "Trenchon",
+			"movement": 3,
+			"strength": 45,
+			"cost": 115,
+			"requiredTech": "Chivalry",
+			"requiredResource": "Horses",
+			"upgradesTo": "Cavalry",
+			"obsoleteTech": "Military Science",
+			"uniques": ["May capture killed [Wounded] units","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+			"attackSound": "horse"
+		},
+	{
+			"name": "Rider General",
+			"replaces": "Great General",
+			"uniqueTo": "Silexidor",
+			"unitType": "Civilian",
+			"movement": 6,
+			"uniques": ["Empire enters a [10]-turn Golden Age <by consuming this unit>","Can instantly construct a [Citadel] improvement <by consuming this unit>","Can instantly construct a [Manufactory] improvement <by consuming this unit>","[+15]% Strength bonus for [Military] units within [3] tiles","Great Person - [War]","Unbuildable","Uncapturable","Comment [(Rider is the last name of multiple Silexidor Generals, so that's why this unit is called the Rider General)]"]
+		},
+	{
+			"name": "Tribesman",
+			"replaces": "Spearman",
+			"uniqueTo": "Xenlor Clan",
+			"unitType": "Sword",
+			"movement": 3,
+			"strength": 22,
+			"cost": 41,
+			"requiredTech": "Bronze Working",
+			"obsoleteTech": "Civil Service",
+			"uniques": ["May capture killed [Sword] units","[+25]% Strength vs [Sword] units","[+50]% Strength vs [Mounted] units"],
+			"attackSound": "mtlAttack"
+		},
+	{
+			"name": "Xenlor",
+			"replaces": "Longswordsman",
+			"uniqueTo": "Xenlor Alliance",
+			"unitType": "Sword",
+			"movement": 3,
+			"strength": 30,
+			"cost": 120,
+			"requiredTech": "Steel",
+			"upgradesTo": "Rifleman",
+			"obsoleteTech": "Rifling",
+			"uniques": ["Never appears as a Barbarian unit","[+25]% Strength <when defending>"],
+			"attackSound": "nonmetalAttack"
+		}
+	]

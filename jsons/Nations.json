@@ -1,38 +1,252 @@
 [
+
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Lexington",
+		"leaderName": "King Lexington III",
+		"adjective": ["Lexington"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "May your kingdom be admired, King Lexington III. You not be the smartest, or the fastest, but your people will prosper no matter their troubles. For that's what it means to be a Lexington.",
+		"startIntroPart2": "Do you have what it takes make Lexington superior to all?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You are a threat to Lexington, you must be eradicated!",
+		"attacked": "You've made a grave mistake, fool!",
+		"defeated": "If you can beat me, then you truly deserve to rule this world",
+		"introduction": "I'm King Lexington III, of the Lexington people, feel free to check out the town square, friend.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": ["What's your idea?","Talk already.","I am listening."],
+		"neutralNo": ["We're fine.","No.","No way."],
+		"neutralYes": ["Sounds like a plan.","Okay.","Smart choice."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Speak up!",
+		"hateLetsHearIt": ["What do you want?","Say it already.","Quickly, I don't have time for you."],
+		"hateNo": ["I'm not a charity case.","Only a fool would accept that offer!","Never..."],
+		"hateYes": ["Fine.","For now...","I guess."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "May we never make such a mistake again.",
+		"tradeRequest": "I have an offer, how does it sound?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [18,4,209],
+		"innerColor": [250,214,10],
+		"uniqueName": "Money Makes The Earth Go Round",
+		"uniques": ["Starts with [Currency]", "Free [Great Merchant] appears<upon founding a city>"],
+		"cities": ["Lexington","Flondor","Grendenburg","Rich","Sippikal"],
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+	},
+
+	{
+		"name": "Trenchon",
+		"leaderName": "Torek Trenchon",
+		"adjective": ["Trenchon"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Islam",
+		
+		"startIntroPart1": "You show no mercy, Torek Jirk. You're army and people will be writen about in history books for centuries, for your empire is the best.",
+		"startIntroPart2": "You must take over quickly, or you will lose your chance to.",
+		
+		"declaringWar": "I hope to see your body rot among your people!",
+		"attacked": "Hmm... A death wish.",
+		"defeated": "I'll see you in hell you pest",
+		"introduction": "The name's Torek Trenchon, my empire is a gem, much like your's.",
+		
+		"neutralHello": "Huh? Oh hey!",
+		"neutralLetsHearIt": ["A deal?","Let's hear it.","I hear you."],
+		"neutralNo": ["Nah.","No.","Not right now."],
+		"neutralYes": ["Why Not?","We won't regret this.","Uh, yeah."],
+
+		"hateHello": "Who let you in here?!",
+		"hateLetsHearIt": ["Talk!","What'll it be? You pest...","Be quick, I can't stand your voice."],
+		"hateNo": ["You'll be dead before I accept that!","Do you have a brain?","No!"],
+		"hateYes": ["Maybe...","Thanks...","Grr... Fine."],
+		
+		"afterPeace": "Let us stop for now, we've gotten nowhere.",
+		"tradeRequest": "Come on! Accept it, I swear it's fair!",
+
+		"outerColor": [212,217,213],
+		"innerColor": [128,3,3],
+		"uniqueName": "Never Back Down",
+		"uniques": ["[+20]% Gold cost of upgrading <after discovering [Iron Working]>","Double quantity of [Iron] produced"],
+		"cities": ["Trenchon","Notchin","Nechin","Tronon","Wekardard"],
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+	},
+
+	{
+		"name": "Earthorn",
+		"leaderName": "Prince Eliot",
+		"adjective": ["Earthorn"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Lucius",
+		
+		"startIntroPart1": "Peace to you, Eliot of Earthorn. You're land is one of beauty, and through your peaceful aditude you will be the greatest civilzation the world has ever known.",
+		
+		"declaringWar": "This is for the best... I'm sorry...",
+		"attacked": "B-But, why? It doesn't matter, I'll keep Earthorn safe from you!",
+		"defeated": "Congrats on besting me! Just don't forget to uphold your honor, for the sake of your people.",
+		"introduction": "Hello friend, My name is Eliot! If you ever need aid just ask, alright?",
+		
+		"neutralHello": "Good day to you! Would you like some tea perhaps?",
+		"neutralLetsHearIt": ["Trade sounds wonderful.","I'm all ears.","Give me an idea of yours."],
+		"neutralNo": ["No thanks.","I'm sorry.","Not currently."],
+		"neutralYes": ["Alright!","I like your way of thinking!","Sounds Grand."],
+
+		"hateHello": "Oh... You...",
+		"hateLetsHearIt": ["Uh...","I'm busy so don't be long...","I'll hear you out..."],
+		"hateNo": ["No, just no.","Please leave us alone.","Nuh uh."],
+		"hateYes": ["Okay.","I-I'll do it, sure...","For our people's sake I guess..."],
+		
+		"afterPeace": "It's much better to live in harmony, peace is the most obvious choice.",
+		"tradeRequest": "Do you like this trade?",
+
+		"outerColor": [2,235,138],
+		"innerColor": [219,79,191],
+		"uniqueName": "Living As Equals",
+		"uniques": ["When declaring friendship, both parties gain a [+50]% boost to great person generation","[+2 Culture, +2 Production] whenever a Great Person is expended"],
+		"cities": ["Earthorn","Plastia","Iion","City Four","Fastum"],
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+	},
+
+{
+		"name": "Silexidor",
+		"leaderName": "King Silexidor",
+		"adjective": ["Silexidor"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Judaism",
+		
+		"startIntroPart1": "NO ONE LIKES YOU!!!",
+		"startIntroPart2": "Nothing",
+		
+		"declaringWar": "You have gone to far, time to say goodbye!",
+		"attacked": "Declaring war on me is pointless, soon you will beg for mercy.",
+		"defeated": "W-What!? You defeated me?! So be it, congrats I guess...",
+		"introduction": "I'm Sir Silexidor, I'm glad to see their are civilized folk out there. Let's keep in touch, mate.",
+		
+		"neutralHello": "Nice to see you again.",
+		"neutralLetsHearIt": ["What's your idea?","Hmm...","Let's hear it mate."],
+		"neutralNo": ["We're fine.","No.","Sorry mate."],
+		"neutralYes": ["Good going.","Alrighty.","Smart move."],
+
+		"hateHello": "What is it!?",
+		"hateLetsHearIt": ["What do you want?","Spit it out!","Oh, need help from me? Pethetic..."],
+		"hateNo": ["I'm not a bloody donater.","No way in hell!","Just shut your mouth."],
+		"hateYes": ["Yay...","Whatever.","Sure."],
+		
+		"afterPeace": "Finaly, we can relax.",
+		"tradeRequest": "How's about a trade?",
+
+		"outerColor": [204,94,4],
+		"innerColor": [110,2,2],
+		"uniqueName": "Deep Focus",
+		"uniques": ["[Great Scientist] is earned [+20]% faster <when not at war>","[Great General] is earned [+20]% faster <when at war>"],
+		"cities": ["Silexidor","Sonondor","Opin","Papier","Slondite"],
+        "spyNames": ["Kempf", "Dibian", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+	},
+{
+		"name": "The Silexidor Republic",
+		"leaderName": "Dibian Silexidor",
+		"adjective": ["The Silexidor Republic"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Science",
+		"favoredReligion": "Judaism",
+		
+		"startIntroPart1": "Prince Dibian of Silexidor, you are a man of the people, going against your fathers wishes and building a new kingdom. One of peace, and prosparity.",
+		"startIntroPart2": "Will you grow, or crumble among others?",
+		
+		"declaringWar": "We can't people like you if we want a peaceful life, time to die villan!",
+		"attacked": "We won't hold back, not even our civilans are scared of you.",
+		"defeated": "N-No... I failed...",
+		"introduction": "The name is Dib, I'm hoping to start a new kingdom, one of peace, and prosparity! Best wishes to ya!",
+		
+		"neutralHello": "What's Up?",
+		"neutralLetsHearIt": ["What's your idea?","Hmm...","Okay."],
+		"neutralNo": ["We're fine.","No.","Sorry mate."],
+		"neutralYes": ["Good going.","Alright.","Smart."],
+
+		"hateHello": "You best not say another word.",
+		"hateLetsHearIt": ["What?!","Talk!","You expect me to help, YOU..."],
+		"hateNo": ["I'm not a bloody donater.","No way in hell!","Just shut your mouth."],
+		"hateYes": ["Yay...","Whatever.","Sure."],
+		
+		"afterPeace": "Finaly, back to work.",
+		"tradeRequest": "Let's trade.",
+
+		"outerColor": [245,196,49],
+		"innerColor": [179,76,7],
+		"uniqueName": "A Growing Republic",
+		"uniques": ["[+20]% [Food] [in all cities]","[+3 Science, +2 Production] in cities on [Plains] tiles"],
+		"cities": ["Villge Dib","Village Recca","Dib's Quarry","Village Papier","Village Opin"],
+        "spyNames": ["Kempf", "Diblin", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+	},
+{
+		"name": "Xenlor Clan",
+		"leaderName": "Gorohiku",
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "Gorohiku, the wild leader of The Xenlor Clan, your methods of victory may be uncivilized, but they are effective. You will get your revenge on Lexington, and the whole world.",
+		
+		"declaringWar": "We're hungry... Time for death...",
+		"attacked": "Grrr! I'll kill you!",
+		"defeated": "no... not again...",
+		"introduction": "I'm Gorohiku of the Xelor, hi...",
+		
+		"neutralHello": "Hi... What do you want..?",
+		"neutralLetsHearIt": ["What do you want?","Talk."],
+		"neutralNo": ["NO!","grrr...","Go away."],
+		"neutralYes": ["Okay.","Sure.","Whatever."],
+
+		"hateHello": "Die die die die die...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["NO! NEVER!"],
+		"hateYes": ["Okay.","Sure.","Whatever."],
+		
+		"afterPeace": "Stay away from me now...",
+		"tradeRequest": "I need something from you...",
+
+		"outerColor": [18,18,18],
+		"innerColor": [227,2,2],
+		"uniqueName": "Wild Instints",
+		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength when fighting in [Forest] tiles","[+10]% Stregth <vs cities>","Comment [(The Xenlor are a species that are part dragon, they often act like animals)]"],
+		"cities": ["Kigano Gorohiku","Jurarikawa","Paiton","Furiku Hanako","Tunamo Mono"],
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+	},
+{
+		"name": "Xenlor Alliance",
+		"leaderName": "Yugi",
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Yugi Uchiban, times have been tough for the remaining Xenlor, but you will bring peace between the races at all costs.",
+		
+		"declaringWar": "You people are evil, time for our revenge!",
+		"attacked": "You people haven't changed...",
+		"defeated": "no... not again...",
+		"introduction": "I go by Yugi, we Xenlor come in peace.",
+		
+		"neutralHello": "Hello, wanna spar some?",
+		"neutralLetsHearIt": ["What whould you like?","Yes?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Okay.","Sure."],
+
+		"hateHello": "Leave us alone...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["Not ever..."],
+		"hateYes": ["Whatever..."],
+		
+		"afterPeace": "You've come to your senses, good.",
+		"tradeRequest": "I would like to trade with you.",
+
+		"outerColor": [242,242,242],
+		"innerColor": [52,149,235],
+		"uniqueName": "The Last Xenlor Left",
+		"uniques": ["Starts with [Honor] adopted","Starts with [Mining]","[+10]% Strength when fighting in [Forest] tiles","[+10]% Strength when fighting in [Snow] tiles","Free [Scout] appears<upon founding a city>","Comment [(The Xenlor have been supposedly dead but there was actully a few left, Yugi brought them togehter to start the clan once more, this time less violent.)]"],
+		"cities": ["Slex Camp","XenXen Village","Lex Camp","Kaito","Trench Camp"],
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
 	}
+
 ]

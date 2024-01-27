@@ -1,0 +1,78 @@
+[
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 55,
+		"buildingCost": 75,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Spell Books",
+				"row": 11,
+				"prerequisites": ["Archery"],
+				"quote": "'The outcome of a magic duel doesn't depend on the spells you're using, but the way in which you are using them.' - Ekan Whithers"
+			}
+
+	
+
+					]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Classical era",
+		"techCost": 175,
+		"buildingCost": 100,
+		"wonderCost": 250,
+		"techs": [
+
+		{
+				"name": "Staffs and Wands",
+				"row": 11,
+				"prerequisites": ["Spell Books","Bronze Working"],
+				"quote": "'A staff is just a big wand, and a wand is just a small staff' - Arthur Dazenlin"
+
+			}
+				]
+
+	},
+	{	
+		"columnNumber": 5,
+		"era": "Medieval era",
+		"techCost": 275,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
+
+		{
+				"name": "Magic Mastery",
+				"row": 11,
+				"prerequisites": ["Staffs and Wands","Iron Working"],
+				"quote": "'A strong warrior must me able to properly use their weapon, their staff, and their mind' - Prince Eliot Earthorn"
+
+			}
+				]
+
+
+	},
+{
+		"columnNumber": 6,
+		"era": "Medieval era",
+		"techCost": 485,
+		"buildingCost": 160,
+		"wonderCost": 400,
+		"techs": [
+
+		{
+				"name": "Religious Magic",
+				"row": 2,
+				"prerequisites": ["Magic Mastery","Theology"],
+				"quote": "'Magic has many purposes, for fights, for fun, for good, and for evil' - Mikeal Victer"
+
+			}
+				]
+
+
+	}
+]
+
+
