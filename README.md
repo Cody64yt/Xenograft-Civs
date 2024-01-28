@@ -1,5 +1,7 @@
-# Unciv-mod-example
+# Xenograft Civs
 
-An example mod for Unciv, that adds one new Civilization.
+Xenograft is a fictional world that takes place in the 1600s. The Xenograft world is a fantasy world, so there is magic, dragons, and other fantasy aspects.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Anyway, I hope you enjoy!
+
+Link to my youtube ---> https://www.youtube.com/channel/UC8qI1Z5XIAdWTftO4IlY8Bg
