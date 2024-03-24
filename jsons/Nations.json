@@ -34,7 +34,7 @@
 		"uniqueName": "Money Makes The Earth Go Round",
 		"uniques": ["Starts with [Currency]", "Free [Great Merchant] appears<upon founding a city>"],
 		"cities": ["Lexington","Flondor","Grendenburg","Rich","Sippikal"],
-        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
 
 	{
@@ -71,7 +71,7 @@
 		"uniqueName": "Never Back Down",
 		"uniques": ["[+20]% Gold cost of upgrading <after discovering [Iron Working]>","Double quantity of [Iron] produced"],
 		"cities": ["Trenchon","Notchin","Nechin","Tronon","Wekardard"],
-        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
 
 	{
@@ -107,7 +107,7 @@
 		"uniqueName": "Living As Equals",
 		"uniques": ["When declaring friendship, both parties gain a [+50]% boost to great person generation","[+2 Culture, +2 Production] whenever a Great Person is expended"],
 		"cities": ["Earthorn","Plastia","Iion","City Four","Fastum"],
-        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
 
 {
@@ -118,8 +118,7 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Judaism",
 		
-		"startIntroPart1": "NO ONE LIKES YOU!!!",
-		"startIntroPart2": "Nothing",
+		"startIntroPart1": "King Silexidor, you may lead Silexidor anyway you please, for you are in control now.",
 		
 		"declaringWar": "You have gone to far, time to say goodbye!",
 		"attacked": "Declaring war on me is pointless, soon you will beg for mercy.",
@@ -144,7 +143,7 @@
 		"uniqueName": "Deep Focus",
 		"uniques": ["[Great Scientist] is earned [+20]% faster <when not at war>","[Great General] is earned [+20]% faster <when at war>"],
 		"cities": ["Silexidor","Sonondor","Opin","Papier","Slondite"],
-        "spyNames": ["Kempf", "Dibian", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+        "spyNames": ["Kempf", "Dibian", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
 {
 		"name": "The Silexidor Republic",
@@ -180,7 +179,7 @@
 		"uniqueName": "A Growing Republic",
 		"uniques": ["[+20]% [Food] [in all cities]","[+3 Science, +2 Production] in cities on [Plains] tiles"],
 		"cities": ["Villge Dib","Village Recca","Dib's Quarry","Village Papier","Village Opin"],
-        "spyNames": ["Kempf", "Diblin", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+        "spyNames": ["Kempf", "Diblin", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
 {
 		"name": "Xenlor Clan",
@@ -213,11 +212,11 @@
 		"uniqueName": "Wild Instints",
 		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength when fighting in [Forest] tiles","[+10]% Stregth <vs cities>","Comment [(The Xenlor are a species that are part dragon, they often act like animals)]"],
 		"cities": ["Kigano Gorohiku","Jurarikawa","Paiton","Furiku Hanako","Tunamo Mono"],
-        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Ryan", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
 {
 		"name": "Xenlor Alliance",
-		"leaderName": "Yugi",
+		"leaderName": "Yugi Uchiban",
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 		
@@ -245,8 +244,41 @@
 		"innerColor": [52,149,235],
 		"uniqueName": "The Last Xenlor Left",
 		"uniques": ["Starts with [Honor] adopted","Starts with [Mining]","[+10]% Strength when fighting in [Forest] tiles","[+10]% Strength when fighting in [Snow] tiles","Free [Scout] appears<upon founding a city>","Comment [(The Xenlor have been supposedly dead but there was actully a few left, Yugi brought them togehter to start the clan once more, this time less violent.)]"],
-		"cities": ["Slex Camp","XenXen Village","Lex Camp","Kaito","Trench Camp"],
-        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Norne", "Cain", "Abel", "Roederick", "Luke", "Yugi"]
+		"cities": ["Slex Camp","Rena Camp","Lex Camp","Kaito","Trench Camp"],
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
+	},
+{
+		"name": "Renaria",
+		"leaderName": "Princess Celica",
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "Great Princess Celica, with your impressive army you could take over whoever you please, but will you? The choice is yours.",
+		
+		"declaringWar": "Time to put our army to use, Laguz and I will show no mercy.",
+		"attacked": "Have you seen our army? You tell pretty funny jokes.",
+		"defeated": "W-What..? How c-could you beat the power of MY blade...?",
+		"introduction": "Oh hello! I'm Celica, the sister of Prince Laguz The Great. You seem nice.",
+		
+		"neutralHello": "Good day to you! Did you need something in particular?",
+		"neutralLetsHearIt": ["Trading?","Oki-doki"],
+		"neutralNo": ["Sorry","Not now"],
+		"neutralYes": ["Sure thing!","Alrighty"],
+
+		"hateHello": "Quickly.",
+		"hateLetsHearIt": ["Be fast","Don't waste my time"],
+		"hateNo": ["Don't waste my time.","Funny."],
+		"hateYes": ["Finnneee..."],
+		
+		"afterPeace": "About time.",
+		"tradeRequest": "Yo yo, I need something from you!",
+
+		"outerColor": [181,79,72],
+		"innerColor": [218,100,50],
+		"uniqueName": "The Twins Of Renaria",
+		"uniques": ["[+5]% Strength <when at war>","[+10]% Strength <during a Golden Age>","[+2] Production <without [Iron]>"],
+		"cities": ["Renaria","Ryania","Laguz Village","Heyua","Distan"],
+        "spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	}
 
 ]
