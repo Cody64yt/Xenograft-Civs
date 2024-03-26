@@ -273,8 +273,8 @@
 		"afterPeace": "About time.",
 		"tradeRequest": "Yo yo, I need something from you!",
 
-		"outerColor": [181,79,72],
-		"innerColor": [218,100,50],
+		"outerColor": [25,190,255],
+		"innerColor": [0,28,242],
 		"uniqueName": "The Twins Of Renaria",
 		"uniques": ["[+5]% Strength <when at war>","[+10]% Strength <during a Golden Age>","[+2] Production <without [Iron]>"],
 		"cities": ["Renaria","Ryania","Laguz Village","Heyua","Distan"],
