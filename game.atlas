@@ -24,6 +24,13 @@ BuildingIcons/Casino
   orig: 100, 100
   offset: 0, 0
   index: -1
+  BuildingIcons/The Laguz Monument
+  rotate: false
+  xy: 200, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Earthorn
   rotate: false
   xy: 200, 0
@@ -73,9 +80,16 @@ NationIcons/Xenlor Alliance
   orig: 100, 100
   offset: 0, 0
   index: -1
+  NationIcons/Renaria
+  rotate: false
+  xy: 100, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/Lucius
   rotate: false
-  xy: 200, 300
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -153,6 +167,13 @@ UnitIcons/Wand Youth
 UnitIcons/Xenlor
   rotate: false
   xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+  UnitIcons/Hero
+  rotate: false
+  xy: 300, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
