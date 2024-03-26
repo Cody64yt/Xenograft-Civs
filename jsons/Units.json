@@ -79,7 +79,7 @@
 			"strength": 6,
 			"cost": 35,
 			"obsoleteTech": "Scientific Theory",
-			"uniques": ["This Unit gains the [Ignore terrain cost] promotion"],
+			"uniques": ["This Unit gains the [Ignore terrain cost] promotion","Never appears as a Barbarian unit"],
 			"attackSound": "nonmetalAttack"
 		},
 	{
@@ -131,5 +131,19 @@
 			"obsoleteTech": "Rifling",
 			"uniques": ["Never appears as a Barbarian unit","[+25]% Strength <when defending>"],
 			"attackSound": "nonmetalAttack"
+		},
+	{
+		"name": "Hero",
+		"unitType": "Mounted",
+		"uniqueTo": "Renaria",
+		"movement": 4,
+		"strength": 25,
+		"cost": 115,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 		}
+	
 	]
