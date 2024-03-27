@@ -39,7 +39,7 @@
 			"greatPersonPoints": {"Great Scientist": 2},
 			"culture": 2,
 			"production":5,
-			"uniques": ["Never destroyed when the city is captured","Gain a free [Library] [in city]","[1] free random researchable Tech(s) from the [Medieval era]"],
+			"uniques": ["Never destroyed when the city is captured","[1] Free Social Policies","[1] free random researchable Tech(s) from the [Medieval era]"],
 			"requiredTech": "Civil Service",
 			"quote": "'Life shouldnt be a constant struggle for land or power, we should have breaks inbetween.' - Laguz Renaria"
 		}
