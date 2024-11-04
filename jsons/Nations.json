@@ -210,9 +210,25 @@
 		"outerColor": [18,18,18],
 		"innerColor": [227,2,2],
 		"uniqueName": "Wild Instints",
-		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength when fighting in [Forest] tiles","[+10]% Stregth <vs cities>","Comment [(The Xenlor are a species that are part dragon, they often act like animals)]"],
+		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength when fighting in [Forest] tiles","[+10]% Stregth <vs cities>"],
 		"cities": ["Kigano Gorohiku","Jurarikawa","Paiton","Furiku Hanako","Tunamo Mono"],
-        	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
+        	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"],
+		"civilopediaText": [
+					{
+				"text": "Background",
+				"header": 1,
+					},
+					{
+				"text": "The Xenlor are a species that are part dragon, they often act like animals.",
+					},
+					{
+				"separator": true,
+					},
+					{
+				"link": "Nation/Xenlor Alliance",
+				"text": "See Also - Xenlor Alliance",
+					},
+				],
 	},
 {
 		"name": "Xenlor Alliance",
@@ -243,9 +259,26 @@
 		"outerColor": [242,242,242],
 		"innerColor": [52,149,235],
 		"uniqueName": "The Last Xenlor Left",
-		"uniques": ["Starts with [Honor] adopted","Starts with [Mining]","[+10]% Strength when fighting in [Forest] tiles","[+10]% Strength when fighting in [Snow] tiles","Free [Scout] appears<upon founding a city>","Comment [(The Xenlor have been supposedly dead but there was actully a few left, Yugi brought them togehter to start the clan once more, this time less violent.)]"],
+		"uniques": ["Starts with [Honor] adopted","Starts with [Mining]","[+10]% Strength when fighting in [Forest] tiles","[+10]% Strength when fighting in [Snow] tiles","Free [Scout] appears<upon founding a city>"],
 		"cities": ["Slex Camp","Rena Camp","Lex Camp","Kaito","Trench Camp"],
-        	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
+        	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"],
+		"civilopediaText": [
+					{
+				"text": "Background",
+				"header": 1,
+					},
+					{
+				"text": "The Xenlor have been supposedly dead but there was actully a few left, Yugi brought them togehter to start the clan once more, this time less violent.",
+					},
+					{
+				"separator": true,
+					},
+					{
+				"link": "Nation/Xenlor Clan",
+				"text": "See Also - Xenlor Clan",
+					},
+				],
+
 	},
 {
 		"name": "Renaria",
