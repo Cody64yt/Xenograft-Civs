@@ -178,7 +178,7 @@
 		"innerColor": [179,76,7],
 		"uniqueName": "A Growing Republic",
 		"uniques": ["[+20]% [Food] [in all cities]","[+3 Science, +2 Production] in cities on [Plains] tiles"],
-		"cities": ["Villge Dib","Village Recca","Dib's Quarry","Village Papier","Village Opin"],
+		"cities": ["Village Dib","Village Recca","Dib's Quarry","Village Papier","Village Opin"],
         	"spyNames": ["Kempf", "Diblin", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
 {
@@ -192,7 +192,7 @@
 		"declaringWar": "We're hungry... Time for death...",
 		"attacked": "Grrr! I'll kill you!",
 		"defeated": "no... not again...",
-		"introduction": "I'm Gorohiku of the Xelor, hi...",
+		"introduction": "I'm Gorohiku of the Xenlor, hi...",
 		
 		"neutralHello": "Hi... What do you want..?",
 		"neutralLetsHearIt": ["What do you want?","Talk."],
