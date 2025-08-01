@@ -55,7 +55,7 @@
 			"rangedStrength": 13,
 			"requiredTech": "Religious Magic",
 			"obsoleteTech": "Future Tech",
-			"uniques": ["Can [Spread Religion] [3] times","Never appears as a Barbarian unit"],
+			"uniques": ["Can Spread Religion <[3] times> <after which this unit is consumed>","Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>","Never appears as a Barbarian unit"],
 			"attackSound": "nonmetalAttack"
 		},
 	{
@@ -67,7 +67,7 @@
 			"rangedStrength": 30,
 			"requiredTech": "Religious Magic",
 			"obsoleteTech": "Future Tech",
-			"uniques": ["Can [Spread Religion] [1] times","Never appears as a Barbarian unit"],
+			"uniques": ["Can Spread Religion <[1] times> <after which this unit is consumed>","Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>","Never appears as a Barbarian unit"],
 			"attackSound": "nonmetalAttack"
 		},
 	{
@@ -79,7 +79,7 @@
 			"strength": 6,
 			"cost": 35,
 			"obsoleteTech": "Scientific Theory",
-			"uniques": ["This Unit gains the [Ignore terrain cost] promotion","Never appears as a Barbarian unit"],
+			"uniques": ["[This Unit] gains the [Ignore terrain cost] promotion","Never appears as a Barbarian unit"],
 			"attackSound": "nonmetalAttack"
 		},
 	{
