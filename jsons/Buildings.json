@@ -19,7 +19,7 @@
 			"specialistSlots": {"Scientist": 1},
 			"cost": 85,
 			"science": 4,
-			"uniques": ["[+2 Science] for every [Farm]"],
+			"uniques": ["[+2 Science] from every [Farm]"],
 			"requiredTech": "Writing"
 		},
 	{
