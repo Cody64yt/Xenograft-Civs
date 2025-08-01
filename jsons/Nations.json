@@ -69,7 +69,7 @@
 		"outerColor": [212,217,213],
 		"innerColor": [128,3,3],
 		"uniqueName": "Never Back Down",
-		"uniques": ["[+20]% Gold cost of upgrading <after discovering [Iron Working]>","Double quantity of [Iron] produced"],
+		"uniques": ["[+20]% Gold cost of upgrading <after discovering [Iron Working]>","[+100]% [Iron] resource production"],
 		"cities": ["Trenchon","Notchin","Nechin","Tronon","Wekardard"],
         	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
@@ -210,7 +210,7 @@
 		"outerColor": [18,18,18],
 		"innerColor": [227,2,2],
 		"uniqueName": "Wild Instints",
-		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength <when fighting in [Forest] tiles>","[+10]% Stregth <vs cities>"],
+		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength <when fighting in [Forest] tiles>","[+10]% Strength <vs cities>"],
 		"cities": ["Kigano Gorohiku","Jurarikawa","Paiton","Furiku Hanako","Tunamo Mono"],
         	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"],
 		"civilopediaText": [
