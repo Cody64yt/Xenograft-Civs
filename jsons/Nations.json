@@ -210,7 +210,7 @@
 		"outerColor": [18,18,18],
 		"innerColor": [227,2,2],
 		"uniqueName": "Wild Instints",
-		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength when fighting in [Forest] tiles","[+10]% Stregth <vs cities>"],
+		"uniques": ["Starts with [Animal Husbandry]","Starts with [Trapping]","[+20]% Strength <when fighting in [Forest] tiles>","[+10]% Stregth <vs cities>"],
 		"cities": ["Kigano Gorohiku","Jurarikawa","Paiton","Furiku Hanako","Tunamo Mono"],
         	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"],
 		"civilopediaText": [
@@ -259,7 +259,7 @@
 		"outerColor": [242,242,242],
 		"innerColor": [52,149,235],
 		"uniqueName": "The Last Xenlor Left",
-		"uniques": ["Starts with [Honor] adopted","Starts with [Mining]","[+10]% Strength when fighting in [Forest] tiles","[+10]% Strength when fighting in [Snow] tiles","Free [Scout] appears<upon founding a city>"],
+		"uniques": ["Starts with [Honor] adopted","Starts with [Mining]","[+10]% Strength <when fighting in [Forest] tiles>","[+10]% Strength <when fighting in [Snow] tiles>","Free [Scout] appears<upon founding a city>"],
 		"cities": ["Slex Camp","Rena Camp","Lex Camp","Kaito","Trench Camp"],
         	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"],
 		"civilopediaText": [
@@ -309,7 +309,7 @@
 		"outerColor": [25,190,255],
 		"innerColor": [0,28,242],
 		"uniqueName": "The Twins Of Renaria",
-		"uniques": ["[+5]% Strength <when at war>","[+10]% Strength <during a Golden Age>","[+2] Production <without [Iron]>"],
+		"uniques": ["[+5]% Strength <when at war>","[+10]% Strength <during a Golden Age>","[+2 Production] <without [Iron]>"],
 		"cities": ["Renaria","Ryania","Laguz Village","Heyua","Distan"],
         	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	}
