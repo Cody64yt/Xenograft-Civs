@@ -1,7 +1,8 @@
 {
     "lastUpdated":"1/27/2024",
-    "modUrl":"https://github.com/Cody64yt/Mod",
+    "modUrl":"https://github.com/Cody64yt/Xenograft-Civs",
     "defaultBranch":"main",
     "author":"StadySugra",
-    "modSize":77384,"topics":["unciv-mod","unciv-mod-expansions"]
+    "modSize":77384,"topics":["unciv-mod","unciv-mod-expansions"],
+    "uniques":["Mod requires [Civ V - Gods & Kings]"]
 }
