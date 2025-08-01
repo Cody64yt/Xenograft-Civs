@@ -105,7 +105,7 @@
 		"outerColor": [2,235,138],
 		"innerColor": [219,79,191],
 		"uniqueName": "Living As Equals",
-		"uniques": ["When declaring friendship, both parties gain a [+50]% boost to great person generation","[+2 Culture, +2 Production] whenever a Great Person is expended"],
+		"uniques": ["When declaring friendship, both parties gain a [+50]% boost to great person generation","Gain [+2] [Culture, Production] <upon expending a [Great Person] unit> <(modified by game speed)>"],
 		"cities": ["Earthorn","Plastia","Iion","City Four","Fastum"],
         	"spyNames": ["Hanako", "Arthur", "Laslow", "Henry", "Kaito", "Laguz", "Celica", "Hinata", "Ekan", "Serina", "Yugi"]
 	},
