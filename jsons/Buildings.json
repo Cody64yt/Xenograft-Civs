@@ -29,7 +29,7 @@
 			"cost": 200,
 			"science": 3,
 			"production": 1,
-			"uniques": ["[+25]% strength for every [Magic] unit"],
+			"uniques": ["[+25]% Strength <for [Magic] units>"],
 			"requiredTech": "Spell Books",
 			"quote": "'Some fighters call magic cheating, I just see it as a different art form then the traditional fist fight.' - Henry Colgute"
 		},
